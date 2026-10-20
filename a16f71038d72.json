@@ -105,9 +105,26 @@
       "enabled": true,
       "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/ZSMod-Reaper_v0.5.4_55469297.zip",
       "bundle_sha256": "554692971b994f74df83a3065354fab9eec7afc9baa5c60ac506ce6e765040a1"
+    },
+    {
+      "mod_version_id": "337fe07c-c417-44e9-b9cd-2b4f294661c2",
+      "name": "皮皮配置: ModConfig",
+      "version": "0.2.3",
+      "source": null,
+      "hash": "8447e852546eb29bd058d9c49c1def0ef09f312d3e7073c7c7cb1586a5edbf8f",
+      "files": [
+        "ModConfig\\ModConfig.dll",
+        "ModConfig\\ModConfig.json",
+        "ModConfig\\ModConfig.pck"
+      ],
+      "folder_name": "ModConfig",
+      "mod_id": "ModConfig",
+      "enabled": true,
+      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_47ca1744.zip",
+      "bundle_sha256": "47ca174459da07b2f127a54056ea7f7a2c2d6f131e80bddd825fb4c871e0277a"
     }
   ],
   "created_at": "2026-10-20T02:08:32.362493600Z",
-  "updated_at": "2026-10-20T02:08:32.459535100Z",
+  "updated_at": "2026-10-20T02:17:17.139293600Z",
   "public": false
 }
