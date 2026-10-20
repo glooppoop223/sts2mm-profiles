@@ -1,0 +1,113 @@
+{
+  "id": "8d25a392-82a3-4cc8-b953-542c516abed7",
+  "name": "Modpack 1",
+  "game_version": "0.107.1",
+  "created_by": "glooppoop223",
+  "mods": [
+    {
+      "mod_version_id": "36f76859-b217-4ef6-bdb1-5ba2d854a7ec",
+      "name": "Acheron",
+      "version": "v0.4.11",
+      "source": null,
+      "hash": "fca85a3c2f05d329981ae89ff9eb6e2c645ecc5c0aedfb2837be0b544066a9b5",
+      "files": [
+        "Acheron\\Acheron.dll",
+        "Acheron\\Acheron.json",
+        "Acheron\\Acheron.pck"
+      ],
+      "folder_name": "Acheron",
+      "mod_id": "Acheron",
+      "enabled": true,
+      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/Acheron_v0.4.11_4bf687e4.zip",
+      "bundle_sha256": "4bf687e4ec14ba28ef54ea8652f7a17ed3201c90b8b4a7cd823991b3021c9bb0"
+    },
+    {
+      "mod_version_id": "12f37f89-9495-4a86-baac-c7a93c16c200",
+      "name": "BaseLib",
+      "version": "v3.4.7",
+      "source": null,
+      "hash": "55863ca6adc30a61a7544874e157a519ffe148ccf2b18025947609c4bff813ce",
+      "files": [
+        "BaseLib\\BaseLib.dll",
+        "BaseLib\\BaseLib.json",
+        "BaseLib\\BaseLib.pck"
+      ],
+      "folder_name": "BaseLib",
+      "mod_id": "BaseLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/BaseLib_v3.4.7_6ceb1f4e.zip",
+      "bundle_sha256": "6ceb1f4eb03a17a890b7bb00bcb4111282370403d6e9046628e50352e06fc2fa"
+    },
+    {
+      "mod_version_id": "7d7839eb-4831-4118-8ce1-eaee60b62cc8",
+      "name": "Ryoshu",
+      "version": "0.3.6",
+      "source": null,
+      "hash": "0ff08a3187df4969a6d4ecc9a3c79e28bbb6ab51ba6feb7bc0cc6ffb2605de9a",
+      "files": [
+        "Ryoshu\\Ryoshu.dll",
+        "Ryoshu\\Ryoshu.json",
+        "Ryoshu\\Ryoshu.pck"
+      ],
+      "folder_name": "Ryoshu",
+      "mod_id": "Ryoshu",
+      "enabled": true,
+      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/Ryoshu_v0.3.6_76f756fd.zip",
+      "bundle_sha256": "76f756fdd648bc6682e596e8468f1e8bb49de7c8350269ea6db6b31daccb32c5"
+    },
+    {
+      "mod_version_id": "214569e2-02f1-49c7-abc9-4e350878dee9",
+      "name": "The Cursed",
+      "version": "v0.2.8",
+      "source": null,
+      "hash": "5271f8df2de558689ecf49eddd667e09e18c5ce7084af14a63630dacf1f30ed6",
+      "files": [
+        "The Cursed\\TheCursedMod.dll",
+        "The Cursed\\TheCursedMod.json",
+        "The Cursed\\TheCursedMod.pck"
+      ],
+      "folder_name": "The Cursed",
+      "mod_id": "TheCursedMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/The_Cursed_v0.2.8_3e4754d3.zip",
+      "bundle_sha256": "3e4754d32703897213c6fd030571f6f102368f5ffb236e5e58c87c3f6af93b92"
+    },
+    {
+      "mod_version_id": "621f1af3-6088-444d-90a9-75cc497195e4",
+      "name": "Watcher",
+      "version": "1.5.12",
+      "source": null,
+      "hash": "02cff33813b4396403181c5684ff39115098c6cd60da91ef93c3d5fbab50fb48",
+      "files": [
+        "Watcher\\Watcher.dll",
+        "Watcher\\Watcher.json",
+        "Watcher\\Watcher.pck"
+      ],
+      "folder_name": "Watcher",
+      "mod_id": "Watcher",
+      "enabled": true,
+      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/Watcher_v1.5.12_d5680461.zip",
+      "bundle_sha256": "d568046148a54bc7ed5b0ec7c5837f0f3af01085becd74781dbcead11ddcc910"
+    },
+    {
+      "mod_version_id": "9b7218e2-4e6f-4ca9-a0f4-d717aec53dc7",
+      "name": "ZSMod-Reaper",
+      "version": "v0.5.4",
+      "source": null,
+      "hash": "36f901a982b33d5a8c9b6784315e6611b1570d9ed5cb7cbae6fa72fca675dc59",
+      "files": [
+        "Reaper\\zsproject.dll",
+        "Reaper\\zsproject.json",
+        "Reaper\\zsproject.pck"
+      ],
+      "folder_name": "Reaper",
+      "mod_id": "zsproject",
+      "enabled": true,
+      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/ZSMod-Reaper_v0.5.4_55469297.zip",
+      "bundle_sha256": "554692971b994f74df83a3065354fab9eec7afc9baa5c60ac506ce6e765040a1"
+    }
+  ],
+  "created_at": "2026-10-20T02:08:32.362493600Z",
+  "updated_at": "2026-10-20T02:08:32.459535100Z",
+  "public": false
+}
