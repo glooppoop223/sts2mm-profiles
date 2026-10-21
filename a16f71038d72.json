@@ -105,9 +105,26 @@
       "enabled": true,
       "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/ZSMod-Reaper_v0.5.4_55469297.zip",
       "bundle_sha256": "554692971b994f74df83a3065354fab9eec7afc9baa5c60ac506ce6e765040a1"
+    },
+    {
+      "mod_version_id": "6fcf71be-95e4-4ebc-9aed-7ec195e1c9b9",
+      "name": "Cloud Strife",
+      "version": "v1.0.0",
+      "source": null,
+      "hash": "2309d24ca09b215e44f3c8eb556237db3c572974f747073de93b3c3e1d0002ce",
+      "files": [
+        "CloudStrife\\CloudStrife.dll",
+        "CloudStrife\\CloudStrife.json",
+        "CloudStrife\\CloudStrife.pck"
+      ],
+      "folder_name": "CloudStrife",
+      "mod_id": "CloudStrife",
+      "enabled": true,
+      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/Cloud_Strife_v1.0.0_498c6253.zip",
+      "bundle_sha256": "498c6253d4119394a87755bd465b32af7d084b24567afd51aa235843cdbedf74"
     }
   ],
   "created_at": "2026-10-20T02:08:32.362493600Z",
-  "updated_at": "2026-10-20T02:23:41.405245500Z",
+  "updated_at": "2026-10-21T01:13:35.361290100Z",
   "public": false
 }
