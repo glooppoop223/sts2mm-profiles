@@ -105,9 +105,95 @@
       "enabled": true,
       "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/Cloud_Strife_v1.0.0_498c6253.zip",
       "bundle_sha256": "498c6253d4119394a87755bd465b32af7d084b24567afd51aa235843cdbedf74"
+    },
+    {
+      "mod_version_id": "942bc227-9894-47d4-aa61-50ade11feedd",
+      "name": "魂魄妖梦",
+      "version": "1.4.0",
+      "source": null,
+      "hash": "082fad30ef575d36f95f64ff6d84baea1a36155756eb5a57e369d7b3a87e122b",
+      "files": [
+        "Sts2ModYoumu\\TH_Youmu.dll",
+        "Sts2ModYoumu\\TH_Youmu.json",
+        "Sts2ModYoumu\\TH_Youmu.pck"
+      ],
+      "folder_name": "Sts2ModYoumu",
+      "mod_id": "TH_Youmu",
+      "enabled": true,
+      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/_v1.4.0_4f0db1ed.zip",
+      "bundle_sha256": "4f0db1ed3811548ca9e44a64b15bd9e4a63ef1e0a843ac33d53ec37c97192b78"
+    },
+    {
+      "mod_version_id": "460a0e03-09b5-4e5a-89be-e16ecfa8d0cd",
+      "name": "西行寺幽幽子",
+      "version": "1.5.0",
+      "source": null,
+      "hash": "d091415d14f8ff17b5ff93f48473d1bba4d0eae0bf72a4a76801cd3983118278",
+      "files": [
+        "Sts2ModYuyuko\\TH_Yuyuko.dll",
+        "Sts2ModYuyuko\\TH_Yuyuko.json",
+        "Sts2ModYuyuko\\TH_Yuyuko.pck"
+      ],
+      "folder_name": "Sts2ModYuyuko",
+      "mod_id": "TH_Yuyuko",
+      "enabled": true,
+      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/_v1.5.0_1ed41da8.zip",
+      "bundle_sha256": "1ed41da8684f31cff862c8978f4d63a46366fdd11feedeef08c87ecc8d07f98f"
+    },
+    {
+      "mod_version_id": "a2d42dcf-d63f-497c-b84b-eb96f8d6d9b6",
+      "name": "The Immortal（藤原妹红）",
+      "version": "v1.0.6.2",
+      "source": null,
+      "hash": "df5c207d5d3c76c08c3307c89510e2c42667a9ac6eddc5cc032055d0bf4cbf54",
+      "files": [
+        "MokouMod\\MokouMod.dll",
+        "MokouMod\\MokouMod.json",
+        "MokouMod\\MokouMod.pck",
+        "MokouMod\\MokouMod.pdb"
+      ],
+      "folder_name": "MokouMod",
+      "mod_id": "MokouMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/The_Immortal._v1.0.6.2_43da68f0.zip",
+      "bundle_sha256": "43da68f008b9dd044f215a7af6057e678c1f37e242803fc0779183bac4d9414e"
+    },
+    {
+      "mod_version_id": "9a0dfd8c-8268-4c7d-8107-0563bc1bbe38",
+      "name": "The First Blade Master Soldoros",
+      "version": "v1.2.4",
+      "source": null,
+      "hash": "4d45d823ad8b25dc73ea3f5b50db9cac4effb81047e37aa4331cb33d1feefda8",
+      "files": [
+        "soldoros\\Soldoros.dll",
+        "soldoros\\Soldoros.json",
+        "soldoros\\Soldoros.pck"
+      ],
+      "folder_name": "soldoros",
+      "mod_id": "Soldoros",
+      "enabled": true,
+      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/The_First_Blade_Master_Soldoros_v1.2.4_93736425.zip",
+      "bundle_sha256": "93736425e0a1dbf2ed0181a172281b701f9950fe3dace2712b63229682f9fc84"
+    },
+    {
+      "mod_version_id": "5999197c-e40e-4595-aedd-04a9d870d067",
+      "name": "Kafka",
+      "version": "v0.12.10",
+      "source": null,
+      "hash": "ffbbd1ce0c3ce8f0750785f86b4deeba80cc95aa20a13e700d727197a2b76952",
+      "files": [
+        "Kafka\\Kafka.dll",
+        "Kafka\\Kafka.json",
+        "Kafka\\Kafka.pck"
+      ],
+      "folder_name": "Kafka",
+      "mod_id": "Kafka",
+      "enabled": true,
+      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/Kafka_v0.12.10_84a3f32e.zip",
+      "bundle_sha256": "84a3f32e123b506b74de87740d362ce02e6ed6f93d60fb71327f2c3baac402c4"
     }
   ],
   "created_at": "2026-10-20T02:08:32.362493600Z",
-  "updated_at": "2026-10-23T02:39:01.519112800Z",
+  "updated_at": "2026-10-24T04:42:17.898043Z",
   "public": false
 }
