@@ -159,21 +159,24 @@
       "bundle_sha256": "43da68f008b9dd044f215a7af6057e678c1f37e242803fc0779183bac4d9414e"
     },
     {
-      "mod_version_id": "9a0dfd8c-8268-4c7d-8107-0563bc1bbe38",
+      "mod_version_id": "af352ddd-cb3e-4365-b651-98864619f3f4",
       "name": "The First Blade Master Soldoros",
-      "version": "v1.2.4",
+      "version": "v1.2.9",
       "source": null,
-      "hash": "4d45d823ad8b25dc73ea3f5b50db9cac4effb81047e37aa4331cb33d1feefda8",
+      "hash": "446dd028684f86944ced64f62c2241d1038c7280bac2d2f77f653f0300d9b62c",
       "files": [
         "soldoros\\Soldoros.dll",
         "soldoros\\Soldoros.json",
-        "soldoros\\Soldoros.pck"
+        "soldoros\\Soldoros.pck",
+        "soldoros\\_pending_update\\apply_update_v1.2.9.ps1",
+        "soldoros\\_pending_update\\prepared_version.txt",
+        "soldoros\\_pending_update\\soldoros-v1.2.9.zip"
       ],
       "folder_name": "soldoros",
       "mod_id": "Soldoros",
       "enabled": true,
-      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/The_First_Blade_Master_Soldoros_v1.2.4_93736425.zip",
-      "bundle_sha256": "93736425e0a1dbf2ed0181a172281b701f9950fe3dace2712b63229682f9fc84"
+      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/The_First_Blade_Master_Soldoros_v1.2.9_224ddfa7.zip",
+      "bundle_sha256": "224ddfa7840284faa2c69ea94d6ce833669203d244d87fa8c2f3a9155d986bb0"
     },
     {
       "mod_version_id": "5999197c-e40e-4595-aedd-04a9d870d067",
@@ -191,9 +194,26 @@
       "enabled": true,
       "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/Kafka_v0.12.10_84a3f32e.zip",
       "bundle_sha256": "84a3f32e123b506b74de87740d362ce02e6ed6f93d60fb71327f2c3baac402c4"
+    },
+    {
+      "mod_version_id": "fee1098c-f1ca-4fe9-b4dc-a6faf98c8cb4",
+      "name": "帕秋莉库",
+      "version": "1.8.0",
+      "source": null,
+      "hash": "92d42c111b821f1abcc54be538fc955925e4278e03068141583e88ecdfc0ac97",
+      "files": [
+        "Patchoulib\\Patchoulib.dll",
+        "Patchoulib\\Patchoulib.json",
+        "Patchoulib\\Patchoulib.pck"
+      ],
+      "folder_name": "Patchoulib",
+      "mod_id": "Patchoulib",
+      "enabled": true,
+      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/_v1.8.0_502b1c88.zip",
+      "bundle_sha256": "502b1c88f19618a5c7496d1963b5bfe051182f518566ef37447cebdd5c08f231"
     }
   ],
   "created_at": "2026-10-20T02:08:32.362493600Z",
-  "updated_at": "2026-10-24T04:42:17.898043Z",
+  "updated_at": "2026-10-24T04:48:47.059675400Z",
   "public": false
 }
