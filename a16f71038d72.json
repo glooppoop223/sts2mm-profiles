@@ -211,9 +211,26 @@
       "enabled": true,
       "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/_v1.8.0_502b1c88.zip",
       "bundle_sha256": "502b1c88f19618a5c7496d1963b5bfe051182f518566ef37447cebdd5c08f231"
+    },
+    {
+      "mod_version_id": "d24d3c0a-c176-4a95-8788-3d5cc7761759",
+      "name": "Evanescia",
+      "version": "v0.2.6",
+      "source": null,
+      "hash": "50d8cb7c2e1dbb059296e46cae26013e4e5ad8a3cfec12c5bd880d01e8e72a6a",
+      "files": [
+        "Evanescia\\Evanescia.dll",
+        "Evanescia\\Evanescia.json",
+        "Evanescia\\Evanescia.pck"
+      ],
+      "folder_name": "Evanescia",
+      "mod_id": "Evanescia",
+      "enabled": true,
+      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/Evanescia_v0.2.6_5e0a48a1.zip",
+      "bundle_sha256": "5e0a48a164c6dc013d999bfd6159306e624dfd958e019944709feec8f9623b88"
     }
   ],
   "created_at": "2026-10-20T02:08:32.362493600Z",
-  "updated_at": "2026-10-24T04:48:47.059675400Z",
+  "updated_at": "2026-10-25T01:21:24.576493800Z",
   "public": false
 }
