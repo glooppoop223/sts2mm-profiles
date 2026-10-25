@@ -208,9 +208,26 @@
       "enabled": true,
       "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/Evanescia_v0.2.6_5e0a48a1.zip",
       "bundle_sha256": "5e0a48a164c6dc013d999bfd6159306e624dfd958e019944709feec8f9623b88"
+    },
+    {
+      "mod_version_id": "0e5b71e2-58eb-41cb-81f6-f5e9ec387219",
+      "name": "Honglu",
+      "version": "0.2.1",
+      "source": null,
+      "hash": "f6b41d881e4ddd1ab1af17986984a0ff8f7912b1f87cbb39dca468c93246cfbb",
+      "files": [
+        "Honglu\\Honglu.dll",
+        "Honglu\\Honglu.json",
+        "Honglu\\Honglu.pck"
+      ],
+      "folder_name": "Honglu",
+      "mod_id": "Honglu",
+      "enabled": true,
+      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/Honglu_v0.2.1_76afc85b.zip",
+      "bundle_sha256": "76afc85b337b8917b1ca1824f95c213267429c19aafa1e155fd403ce8db85c4d"
     }
   ],
   "created_at": "2026-10-20T02:08:32.362493600Z",
-  "updated_at": "2026-10-25T01:28:52.410378300Z",
+  "updated_at": "2026-10-25T21:40:55.254018900Z",
   "public": false
 }
