@@ -225,26 +225,9 @@
       "enabled": true,
       "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/Honglu_v0.2.1_76afc85b.zip",
       "bundle_sha256": "76afc85b337b8917b1ca1824f95c213267429c19aafa1e155fd403ce8db85c4d"
-    },
-    {
-      "mod_version_id": "a30ba020-f3ae-4b4a-8fb0-68573a1da506",
-      "name": "Act 4: Final Ascent",
-      "version": "0.1.2e",
-      "source": null,
-      "hash": "8b47f856cf3ccfc31a2675c229db81d68481e05b4c3b2242cdb81054896e853d",
-      "files": [
-        "Final Acent\\Act4FinalAscent.dll",
-        "Final Acent\\Act4FinalAscent.json",
-        "Final Acent\\Act4FinalAscent.pck"
-      ],
-      "folder_name": "Final Acent",
-      "mod_id": "Act4FinalAscent",
-      "enabled": true,
-      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/Act_4__Final_Ascent_v0.1.2e_af207a9c.zip",
-      "bundle_sha256": "af207a9cd39cd56b3d0ccc04e9f5dfa0a214583b2c32635efc7734f7591fa074"
     }
   ],
   "created_at": "2026-10-20T02:08:32.362493600Z",
-  "updated_at": "2026-10-26T02:42:31.013094400Z",
+  "updated_at": "2026-10-26T02:43:39.062381600Z",
   "public": false
 }
