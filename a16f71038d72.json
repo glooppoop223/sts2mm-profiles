@@ -225,9 +225,60 @@
       "enabled": true,
       "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/Honglu_v0.2.1_76afc85b.zip",
       "bundle_sha256": "76afc85b337b8917b1ca1824f95c213267429c19aafa1e155fd403ce8db85c4d"
+    },
+    {
+      "mod_version_id": "fdf01881-3405-4e06-93ad-0f050a100191",
+      "name": "Construct构装师",
+      "version": "1.0",
+      "source": null,
+      "hash": "0b92f38fd7ab2bcb5fa35097d60b581b90e56ae76cd488bde77ef2a1218957ec",
+      "files": [
+        "Construct\\Construct.dll",
+        "Construct\\Construct.json",
+        "Construct\\Construct.pck"
+      ],
+      "folder_name": "Construct",
+      "mod_id": "Construct",
+      "enabled": true,
+      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/Construct._v1.0_712e6205.zip",
+      "bundle_sha256": "712e620570710aa5d04f2daf2c7a7f86868cdf6cbfaf919f39bfad462d6cd042"
+    },
+    {
+      "mod_version_id": "de9a3238-bca8-4802-af45-232c40373338",
+      "name": "TheBroker",
+      "version": "v0.1.4",
+      "source": null,
+      "hash": "318c5272f3f6628f5226505fefe72b858c6795fc10e0ce95e5bafa38900cb4c5",
+      "files": [
+        "Broker\\TheBroker.dll",
+        "Broker\\TheBroker.json",
+        "Broker\\TheBroker.pck"
+      ],
+      "folder_name": "Broker",
+      "mod_id": "TheBroker",
+      "enabled": true,
+      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/TheBroker_v0.1.4_fc73a4ba.zip",
+      "bundle_sha256": "fc73a4ba27f4ff29df47864c34694ae8dc9b5df47813048e6968a1ba018767ff"
+    },
+    {
+      "mod_version_id": "0abc8982-5d2a-45e8-8824-ebb6978bcbc0",
+      "name": "TheInscriber刻符师",
+      "version": "1.0",
+      "source": null,
+      "hash": "87533e9e46e7f6b2d4f7c005f109a3ad30cd590f1db6d7ab1d2e66f2f74c2caf",
+      "files": [
+        "The Inscriber\\TheInscriber.dll",
+        "The Inscriber\\TheInscriber.json",
+        "The Inscriber\\TheInscriber.pck"
+      ],
+      "folder_name": "The Inscriber",
+      "mod_id": "TheInscriber",
+      "enabled": true,
+      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/TheInscriber._v1.0_e1ad3173.zip",
+      "bundle_sha256": "e1ad317354c5ba7f2e5c7c92ca6c32385ce2ee128b27b9d8b105b16a8af55e76"
     }
   ],
   "created_at": "2026-10-20T02:08:32.362493600Z",
-  "updated_at": "2026-10-26T02:43:39.062381600Z",
+  "updated_at": "2026-10-26T05:00:33.137726500Z",
   "public": false
 }
