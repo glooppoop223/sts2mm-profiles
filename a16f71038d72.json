@@ -324,9 +324,26 @@
       "enabled": true,
       "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/Faust_v0.1.8_93a21680.zip",
       "bundle_sha256": "93a21680295c4e3eb77dfb3aa989e6f7a6489b7e1c2bffa717aa39b760631259"
+    },
+    {
+      "mod_version_id": "2635c70f-da4a-43e1-8de7-88c2f930172b",
+      "name": "Succubus mod",
+      "version": "v0.9.0",
+      "source": null,
+      "hash": "fa39098e0d3310b055075163b5f54b689c75a4476fdf50ec9ad05c622b455e58",
+      "files": [
+        "Succubus\\scbsmod.dll",
+        "Succubus\\ScbsMod.json",
+        "Succubus\\scbsmod.pck"
+      ],
+      "folder_name": "Succubus",
+      "mod_id": "scbsmod",
+      "enabled": true,
+      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/Succubus_mod_v0.9.0_1db56915.zip",
+      "bundle_sha256": "1db56915852304aba36fbc7349e95fe90b1d46a94fca4d59bc2122a308a74fba"
     }
   ],
   "created_at": "2026-10-20T02:08:32.362493600Z",
-  "updated_at": "2026-10-30T02:09:32.311549500Z",
+  "updated_at": "2026-10-30T02:16:12.357896800Z",
   "public": false
 }
