@@ -107,24 +107,6 @@
       "bundle_sha256": "4f0db1ed3811548ca9e44a64b15bd9e4a63ef1e0a843ac33d53ec37c97192b78"
     },
     {
-      "mod_version_id": "a2d42dcf-d63f-497c-b84b-eb96f8d6d9b6",
-      "name": "The Immortal（藤原妹红）",
-      "version": "v1.0.6.2",
-      "source": null,
-      "hash": "df5c207d5d3c76c08c3307c89510e2c42667a9ac6eddc5cc032055d0bf4cbf54",
-      "files": [
-        "MokouMod\\MokouMod.dll",
-        "MokouMod\\MokouMod.json",
-        "MokouMod\\MokouMod.pck",
-        "MokouMod\\MokouMod.pdb"
-      ],
-      "folder_name": "MokouMod",
-      "mod_id": "MokouMod",
-      "enabled": true,
-      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/The_Immortal._v1.0.6.2_43da68f0.zip",
-      "bundle_sha256": "43da68f008b9dd044f215a7af6057e678c1f37e242803fc0779183bac4d9414e"
-    },
-    {
       "mod_version_id": "5999197c-e40e-4595-aedd-04a9d870d067",
       "name": "Kafka",
       "version": "v0.12.10",
@@ -208,23 +190,6 @@
       "enabled": true,
       "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/TheBroker_v0.1.4_fc73a4ba.zip",
       "bundle_sha256": "fc73a4ba27f4ff29df47864c34694ae8dc9b5df47813048e6968a1ba018767ff"
-    },
-    {
-      "mod_version_id": "0abc8982-5d2a-45e8-8824-ebb6978bcbc0",
-      "name": "TheInscriber刻符师",
-      "version": "1.0",
-      "source": null,
-      "hash": "87533e9e46e7f6b2d4f7c005f109a3ad30cd590f1db6d7ab1d2e66f2f74c2caf",
-      "files": [
-        "The Inscriber\\TheInscriber.dll",
-        "The Inscriber\\TheInscriber.json",
-        "The Inscriber\\TheInscriber.pck"
-      ],
-      "folder_name": "The Inscriber",
-      "mod_id": "TheInscriber",
-      "enabled": true,
-      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/TheInscriber._v1.0_e1ad3173.zip",
-      "bundle_sha256": "e1ad317354c5ba7f2e5c7c92ca6c32385ce2ee128b27b9d8b105b16a8af55e76"
     },
     {
       "mod_version_id": "a77d1431-64f0-44d6-b84f-6fc0ccfef500",
@@ -341,9 +306,48 @@
       "enabled": true,
       "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/Succubus_mod_v0.9.0_1db56915.zip",
       "bundle_sha256": "1db56915852304aba36fbc7349e95fe90b1d46a94fca4d59bc2122a308a74fba"
+    },
+    {
+      "mod_version_id": "54916390-23aa-495d-9e23-f5ce69e064cf",
+      "name": "YiSang",
+      "version": "1.4.6",
+      "source": null,
+      "hash": "21e0c083e526a8f2dceda023c80b4520ee428d34e7ffbb6fd49fee0d900c8d78",
+      "files": [
+        "YiSang\\YiSang.dll",
+        "YiSang\\YiSang.json",
+        "YiSang\\YiSang.pck"
+      ],
+      "folder_name": "YiSang",
+      "mod_id": "YiSang",
+      "enabled": true,
+      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/YiSang_v1.4.6_128137c1.zip",
+      "bundle_sha256": "128137c132a6496b3a12b051263f3c8a9c6a2ba8bfda83e61551558ba3797e7f"
+    },
+    {
+      "mod_version_id": "56cc8cce-c052-4d19-91a8-1dd9d273860b",
+      "name": "bundle-evidence",
+      "version": "0.0.0",
+      "source": null,
+      "hash": "d0efc8a172c8b8870e6b1c1090e09aa387439e00f9a51bab4ef1bc240cbefe8b",
+      "files": [
+        "Library of Ruina Library\\bundle-evidence.json",
+        "Library of Ruina Library\\lib\\0.107.1\\compat-target.txt",
+        "Library of Ruina Library\\lib\\0.107.1\\LibraryOfRuinaLib.dll",
+        "Library of Ruina Library\\lib\\0.111.0\\compat-target.txt",
+        "Library of Ruina Library\\lib\\0.111.0\\LibraryOfRuinaLib.dll",
+        "Library of Ruina Library\\libraryofruinalib-variants.manifest",
+        "Library of Ruina Library\\LibraryOfRuinaLib.dll",
+        "Library of Ruina Library\\LibraryOfRuinaLib.json",
+        "Library of Ruina Library\\LibraryOfRuinaLib.pck"
+      ],
+      "folder_name": "Library of Ruina Library",
+      "enabled": true,
+      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/bundle-evidence_v0.0.0_3736d41e.zip",
+      "bundle_sha256": "3736d41e638a42c5767a434f68f1ed9be6b3d966680497a10be6a743a781e8a8"
     }
   ],
   "created_at": "2026-10-20T02:08:32.362493600Z",
-  "updated_at": "2026-10-30T02:16:12.357896800Z",
+  "updated_at": "2026-10-30T02:23:46.222497700Z",
   "public": false
 }
