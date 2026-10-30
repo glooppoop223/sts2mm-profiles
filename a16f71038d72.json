@@ -363,9 +363,26 @@
       "enabled": true,
       "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/Faust_v0.1.7.beta_08ad1a0a.zip",
       "bundle_sha256": "08ad1a0a0cbb2267c42bb2519e3d39f9bf916a4dca468919bd3ee5247ecea120"
+    },
+    {
+      "mod_version_id": "1580fb71-dde6-4d59-932a-e6f8faaadc20",
+      "name": "Cloud",
+      "version": "v1.0.11",
+      "source": null,
+      "hash": "8063c1179b739e728a6acc12530b3c5cfd0461c83e6c1a93bb32ef8d6a01a6bd",
+      "files": [
+        "Cloud\\Cloud.dll",
+        "Cloud\\Cloud.json",
+        "Cloud\\Cloud.pck"
+      ],
+      "folder_name": "Cloud",
+      "mod_id": "Cloud",
+      "enabled": true,
+      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/Cloud_v1.0.11_a7ea7d7f.zip",
+      "bundle_sha256": "a7ea7d7fcdfaafdefd3f0696a16e5beae13d7dafd0776abc978caa46f5ce4d33"
     }
   ],
   "created_at": "2026-10-20T02:08:32.362493600Z",
-  "updated_at": "2026-10-30T01:33:08.405719900Z",
+  "updated_at": "2026-10-30T01:34:21.773506700Z",
   "public": false
 }
