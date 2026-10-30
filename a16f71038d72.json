@@ -292,23 +292,6 @@
       "bundle_sha256": "39e44b3f99d7c85466c0cdcae9a87eb50e1c366b59ddf9de1e7d645c7223aacf"
     },
     {
-      "mod_version_id": "9549eaca-9e10-49da-bf63-62c7578cffe0",
-      "name": "Faust",
-      "version": "0.1.8",
-      "source": null,
-      "hash": "7f13f57d961f63d71cfff46eb8a5f64c22b7ab27ed2ebd5bc0260512f38be7c1",
-      "files": [
-        "Faust\\Faust.dll",
-        "Faust\\Faust.json",
-        "Faust\\Faust.pck"
-      ],
-      "folder_name": "Faust",
-      "mod_id": "Faust",
-      "enabled": true,
-      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/Faust_v0.1.8_93a21680.zip",
-      "bundle_sha256": "93a21680295c4e3eb77dfb3aa989e6f7a6489b7e1c2bffa717aa39b760631259"
-    },
-    {
       "mod_version_id": "54916390-23aa-495d-9e23-f5ce69e064cf",
       "name": "YiSang",
       "version": "1.4.6",
@@ -363,9 +346,26 @@
       "enabled": true,
       "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/Remilia_v0.0.2_dd62ff98.zip",
       "bundle_sha256": "dd62ff98f69825ce4dcc2af3f58ffca863a4cb46478c4aafc3ac9cb32cdff778"
+    },
+    {
+      "mod_version_id": "d7fe817d-af67-4ff9-899b-abbb2052a89d",
+      "name": "Faust",
+      "version": "0.1.7.beta",
+      "source": null,
+      "hash": "7f13f57d961f63d71cfff46eb8a5f64c22b7ab27ed2ebd5bc0260512f38be7c1",
+      "files": [
+        "Faust\\Faust.dll",
+        "Faust\\Faust.json",
+        "Faust\\Faust.pck"
+      ],
+      "folder_name": "Faust",
+      "mod_id": "Faust",
+      "enabled": true,
+      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/Faust_v0.1.7.beta_08ad1a0a.zip",
+      "bundle_sha256": "08ad1a0a0cbb2267c42bb2519e3d39f9bf916a4dca468919bd3ee5247ecea120"
     }
   ],
   "created_at": "2026-10-20T02:08:32.362493600Z",
-  "updated_at": "2026-10-30T01:05:25.844143300Z",
+  "updated_at": "2026-10-30T01:33:08.405719900Z",
   "public": false
 }
