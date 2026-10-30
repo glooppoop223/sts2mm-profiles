@@ -326,23 +326,6 @@
       "bundle_sha256": "93a21680295c4e3eb77dfb3aa989e6f7a6489b7e1c2bffa717aa39b760631259"
     },
     {
-      "mod_version_id": "aa89c6dc-1bb7-41ea-8c36-4eb3131b4b9d",
-      "name": "Remilia",
-      "version": "v0.0.1",
-      "source": null,
-      "hash": "b2a62855822c653e178b8dcf04c6ea126b01132c7c3f829b5fecf5da88e2b904",
-      "files": [
-        "Remilia\\Remilia.dll",
-        "Remilia\\Remilia.json",
-        "Remilia\\Remilia.pck"
-      ],
-      "folder_name": "Remilia",
-      "mod_id": "Remilia",
-      "enabled": true,
-      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/Remilia_v0.0.1_931b8a0a.zip",
-      "bundle_sha256": "931b8a0a41a74856075fb8b21d77f111c6e41543a3e6ad7b3c815cff847fe3ba"
-    },
-    {
       "mod_version_id": "54916390-23aa-495d-9e23-f5ce69e064cf",
       "name": "YiSang",
       "version": "1.4.6",
@@ -358,9 +341,48 @@
       "enabled": true,
       "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/YiSang_v1.4.6_128137c1.zip",
       "bundle_sha256": "128137c132a6496b3a12b051263f3c8a9c6a2ba8bfda83e61551558ba3797e7f"
+    },
+    {
+      "mod_version_id": "56cc8cce-c052-4d19-91a8-1dd9d273860b",
+      "name": "bundle-evidence",
+      "version": "0.0.0",
+      "source": null,
+      "hash": "d0efc8a172c8b8870e6b1c1090e09aa387439e00f9a51bab4ef1bc240cbefe8b",
+      "files": [
+        "Library of Ruina Library\\bundle-evidence.json",
+        "Library of Ruina Library\\lib\\0.107.1\\compat-target.txt",
+        "Library of Ruina Library\\lib\\0.107.1\\LibraryOfRuinaLib.dll",
+        "Library of Ruina Library\\lib\\0.111.0\\compat-target.txt",
+        "Library of Ruina Library\\lib\\0.111.0\\LibraryOfRuinaLib.dll",
+        "Library of Ruina Library\\libraryofruinalib-variants.manifest",
+        "Library of Ruina Library\\LibraryOfRuinaLib.dll",
+        "Library of Ruina Library\\LibraryOfRuinaLib.json",
+        "Library of Ruina Library\\LibraryOfRuinaLib.pck"
+      ],
+      "folder_name": "Library of Ruina Library",
+      "enabled": true,
+      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/bundle-evidence_v0.0.0_3736d41e.zip",
+      "bundle_sha256": "3736d41e638a42c5767a434f68f1ed9be6b3d966680497a10be6a743a781e8a8"
+    },
+    {
+      "mod_version_id": "42264fad-4eeb-4918-8be9-0438db89164d",
+      "name": "Remilia",
+      "version": "v0.0.2",
+      "source": null,
+      "hash": "4f0da1b12da76dd84dc1138a1226191061e54b6280978199347a7e3ec48eb297",
+      "files": [
+        "Remilia\\Remilia.dll",
+        "Remilia\\Remilia.json",
+        "Remilia\\Remilia.pck"
+      ],
+      "folder_name": "Remilia",
+      "mod_id": "Remilia",
+      "enabled": true,
+      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/Remilia_v0.0.2_dd62ff98.zip",
+      "bundle_sha256": "dd62ff98f69825ce4dcc2af3f58ffca863a4cb46478c4aafc3ac9cb32cdff778"
     }
   ],
   "created_at": "2026-10-20T02:08:32.362493600Z",
-  "updated_at": "2026-10-30T00:55:58.681131200Z",
+  "updated_at": "2026-10-30T01:04:12.228214200Z",
   "public": false
 }
