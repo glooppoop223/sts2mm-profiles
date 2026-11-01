@@ -56,57 +56,6 @@
       "bundle_sha256": "4bf687e4ec14ba28ef54ea8652f7a17ed3201c90b8b4a7cd823991b3021c9bb0"
     },
     {
-      "mod_version_id": "7d7839eb-4831-4118-8ce1-eaee60b62cc8",
-      "name": "Ryoshu",
-      "version": "0.3.6",
-      "source": null,
-      "hash": "0ff08a3187df4969a6d4ecc9a3c79e28bbb6ab51ba6feb7bc0cc6ffb2605de9a",
-      "files": [
-        "Ryoshu\\Ryoshu.dll",
-        "Ryoshu\\Ryoshu.json",
-        "Ryoshu\\Ryoshu.pck"
-      ],
-      "folder_name": "Ryoshu",
-      "mod_id": "Ryoshu",
-      "enabled": true,
-      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/Ryoshu_v0.3.6_76f756fd.zip",
-      "bundle_sha256": "76f756fdd648bc6682e596e8468f1e8bb49de7c8350269ea6db6b31daccb32c5"
-    },
-    {
-      "mod_version_id": "621f1af3-6088-444d-90a9-75cc497195e4",
-      "name": "Watcher",
-      "version": "1.5.12",
-      "source": null,
-      "hash": "02cff33813b4396403181c5684ff39115098c6cd60da91ef93c3d5fbab50fb48",
-      "files": [
-        "Watcher\\Watcher.dll",
-        "Watcher\\Watcher.json",
-        "Watcher\\Watcher.pck"
-      ],
-      "folder_name": "Watcher",
-      "mod_id": "Watcher",
-      "enabled": true,
-      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/Watcher_v1.5.12_d5680461.zip",
-      "bundle_sha256": "d568046148a54bc7ed5b0ec7c5837f0f3af01085becd74781dbcead11ddcc910"
-    },
-    {
-      "mod_version_id": "942bc227-9894-47d4-aa61-50ade11feedd",
-      "name": "魂魄妖梦",
-      "version": "1.4.0",
-      "source": null,
-      "hash": "082fad30ef575d36f95f64ff6d84baea1a36155756eb5a57e369d7b3a87e122b",
-      "files": [
-        "Sts2ModYoumu\\TH_Youmu.dll",
-        "Sts2ModYoumu\\TH_Youmu.json",
-        "Sts2ModYoumu\\TH_Youmu.pck"
-      ],
-      "folder_name": "Sts2ModYoumu",
-      "mod_id": "TH_Youmu",
-      "enabled": true,
-      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/_v1.4.0_4f0db1ed.zip",
-      "bundle_sha256": "4f0db1ed3811548ca9e44a64b15bd9e4a63ef1e0a843ac33d53ec37c97192b78"
-    },
-    {
       "mod_version_id": "5999197c-e40e-4595-aedd-04a9d870d067",
       "name": "Kafka",
       "version": "v0.12.10",
@@ -156,23 +105,6 @@
       "enabled": true,
       "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/Evanescia_v0.2.6_5e0a48a1.zip",
       "bundle_sha256": "5e0a48a164c6dc013d999bfd6159306e624dfd958e019944709feec8f9623b88"
-    },
-    {
-      "mod_version_id": "0e5b71e2-58eb-41cb-81f6-f5e9ec387219",
-      "name": "Honglu",
-      "version": "0.2.1",
-      "source": null,
-      "hash": "f6b41d881e4ddd1ab1af17986984a0ff8f7912b1f87cbb39dca468c93246cfbb",
-      "files": [
-        "Honglu\\Honglu.dll",
-        "Honglu\\Honglu.json",
-        "Honglu\\Honglu.pck"
-      ],
-      "folder_name": "Honglu",
-      "mod_id": "Honglu",
-      "enabled": true,
-      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/Honglu_v0.2.1_76afc85b.zip",
-      "bundle_sha256": "76afc85b337b8917b1ca1824f95c213267429c19aafa1e155fd403ce8db85c4d"
     },
     {
       "mod_version_id": "de9a3238-bca8-4802-af45-232c40373338",
@@ -240,74 +172,6 @@
       "bundle_sha256": "39e44b3f99d7c85466c0cdcae9a87eb50e1c366b59ddf9de1e7d645c7223aacf"
     },
     {
-      "mod_version_id": "42264fad-4eeb-4918-8be9-0438db89164d",
-      "name": "Remilia",
-      "version": "v0.0.2",
-      "source": null,
-      "hash": "4f0da1b12da76dd84dc1138a1226191061e54b6280978199347a7e3ec48eb297",
-      "files": [
-        "Remilia\\Remilia.dll",
-        "Remilia\\Remilia.json",
-        "Remilia\\Remilia.pck"
-      ],
-      "folder_name": "Remilia",
-      "mod_id": "Remilia",
-      "enabled": true,
-      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/Remilia_v0.0.2_dd62ff98.zip",
-      "bundle_sha256": "dd62ff98f69825ce4dcc2af3f58ffca863a4cb46478c4aafc3ac9cb32cdff778"
-    },
-    {
-      "mod_version_id": "1580fb71-dde6-4d59-932a-e6f8faaadc20",
-      "name": "Cloud",
-      "version": "v1.0.11",
-      "source": null,
-      "hash": "8063c1179b739e728a6acc12530b3c5cfd0461c83e6c1a93bb32ef8d6a01a6bd",
-      "files": [
-        "Cloud New\\Cloud.dll",
-        "Cloud New\\Cloud.json",
-        "Cloud New\\Cloud.pck"
-      ],
-      "folder_name": "Cloud New",
-      "mod_id": "Cloud",
-      "enabled": true,
-      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/Cloud_v1.0.11_81f9045b.zip",
-      "bundle_sha256": "81f9045b280120b651db3e8af6e84556ba9890537fe70dcc8ab83fbc2a620818"
-    },
-    {
-      "mod_version_id": "9549eaca-9e10-49da-bf63-62c7578cffe0",
-      "name": "Faust",
-      "version": "0.1.8",
-      "source": null,
-      "hash": "7f13f57d961f63d71cfff46eb8a5f64c22b7ab27ed2ebd5bc0260512f38be7c1",
-      "files": [
-        "Faust\\Faust.dll",
-        "Faust\\Faust.json",
-        "Faust\\Faust.pck"
-      ],
-      "folder_name": "Faust",
-      "mod_id": "Faust",
-      "enabled": true,
-      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/Faust_v0.1.8_93a21680.zip",
-      "bundle_sha256": "93a21680295c4e3eb77dfb3aa989e6f7a6489b7e1c2bffa717aa39b760631259"
-    },
-    {
-      "mod_version_id": "2635c70f-da4a-43e1-8de7-88c2f930172b",
-      "name": "Succubus mod",
-      "version": "v0.9.0",
-      "source": null,
-      "hash": "fa39098e0d3310b055075163b5f54b689c75a4476fdf50ec9ad05c622b455e58",
-      "files": [
-        "Succubus\\scbsmod.dll",
-        "Succubus\\ScbsMod.json",
-        "Succubus\\scbsmod.pck"
-      ],
-      "folder_name": "Succubus",
-      "mod_id": "scbsmod",
-      "enabled": true,
-      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/Succubus_mod_v0.9.0_1db56915.zip",
-      "bundle_sha256": "1db56915852304aba36fbc7349e95fe90b1d46a94fca4d59bc2122a308a74fba"
-    },
-    {
       "mod_version_id": "54916390-23aa-495d-9e23-f5ce69e064cf",
       "name": "YiSang",
       "version": "1.4.6",
@@ -347,43 +211,134 @@
       "bundle_sha256": "3736d41e638a42c5767a434f68f1ed9be6b3d966680497a10be6a743a781e8a8"
     },
     {
-      "mod_version_id": "75790b3c-8b13-4a58-b11d-380c8c7e9cec",
-      "name": "EnkiduMod",
-      "version": "v0.0.8",
+      "mod_version_id": "a1bb092f-484e-49ce-8509-aed80f23d59d",
+      "name": "Le bombeur",
+      "version": "v0.1.0",
       "source": null,
-      "hash": "8b22e511c3303a2f7f7e08805f8dff58657e10ac57de28bbfcc4b6f39610b8c8",
+      "hash": "253e5c5f5ca2751e3376463c3a35e7311640c639ecf51b4f4df8c233cfbd8485",
       "files": [
-        "EnkiduMod\\EnkiduMod.dll",
-        "EnkiduMod\\EnkiduMod.json",
-        "EnkiduMod\\EnkiduMod.pck"
+        "DefaultLeBombeurMod\\LeBombeurMod.dll",
+        "DefaultLeBombeurMod\\LeBombeurMod.json",
+        "DefaultLeBombeurMod\\LeBombeurMod.pck"
       ],
-      "folder_name": "EnkiduMod",
-      "mod_id": "EnkiduMod",
+      "folder_name": "DefaultLeBombeurMod",
+      "mod_id": "LeBombeurMod",
       "enabled": true,
-      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/EnkiduMod_v0.0.8_027de483.zip",
-      "bundle_sha256": "027de48311262286cafd0bb9bb9c85c510852a8e87ef8b74f83d0ddf4e7b93e5"
+      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/Le_bombeur_v0.1.0_4f53089b.zip",
+      "bundle_sha256": "4f53089b03102ae36fdb38f27ac9f27b09263b27f9d616e5d4e639f9332ad11a"
     },
     {
-      "mod_version_id": "7203fc01-a917-4751-bf55-3c06dedbd002",
-      "name": "殺進夏萊",
-      "version": "v0.0.1",
+      "mod_version_id": "3039d850-cb53-44a0-961c-e216d7ea6771",
+      "name": "Qu",
+      "version": "v0.1.0",
       "source": null,
-      "hash": "029673d64c1027f31492f355a2cc32164be9da1a831215024125817cb50febde",
+      "hash": "ac65d916171e0b31cf97d66cc499adaaae6958d17818c3a98f80060777be2e22",
       "files": [
-        "SlayTheSchale\\Art_Resources.txt",
-        "SlayTheSchale\\mod_manifest.json",
-        "SlayTheSchale\\SlayTheSchale.dll",
-        "SlayTheSchale\\SlayTheSchale.pck",
-        "SlayTheSchale\\SlayTheSchale.pdb"
+        "Qu\\Qu.dll",
+        "Qu\\Qu.json",
+        "Qu\\qu.pck"
       ],
-      "folder_name": "SlayTheSchale",
-      "mod_id": "SlayTheSchale",
+      "folder_name": "Qu",
+      "mod_id": "Qu",
       "enabled": true,
-      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/_v0.0.1_875f9f12.zip",
-      "bundle_sha256": "875f9f12289833b9564316ad3a5fbd4138b144d6b94a30c38155bca416684c71"
+      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/Qu_v0.1.0_05e96773.zip",
+      "bundle_sha256": "05e96773ff6b103335d4305333c64f275bbd3014cb3246f6156bc8b61a6c9e88"
+    },
+    {
+      "mod_version_id": "e884cdaf-66d1-4b64-8b2a-70b17409c065",
+      "name": "RitsuLib",
+      "version": "0.6.10",
+      "source": null,
+      "hash": "72732512bb73c194eac473d9b39c3e2347de123b878a950d9d1254e783861afd",
+      "files": [
+        "RitsuLib\\assets.zip",
+        "RitsuLib\\compat\\0.107.1\\compat-target.txt",
+        "RitsuLib\\compat\\0.107.1\\STS2-RitsuLib.dll",
+        "RitsuLib\\compat\\0.107.1\\STS2-RitsuLib.pdb",
+        "RitsuLib\\compat\\0.107.1\\STS2-RitsuLib.Runtime.dll",
+        "RitsuLib\\compat\\0.107.1\\STS2-RitsuLib.Runtime.pdb",
+        "RitsuLib\\compat\\0.107.1\\STS2-RitsuLib.Runtime.xml",
+        "RitsuLib\\compat\\0.107.1\\STS2-RitsuLib.xml",
+        "RitsuLib\\compat\\0.109.0\\compat-target.txt",
+        "RitsuLib\\compat\\0.109.0\\STS2-RitsuLib.dll",
+        "RitsuLib\\compat\\0.109.0\\STS2-RitsuLib.pdb",
+        "RitsuLib\\compat\\0.109.0\\STS2-RitsuLib.Runtime.dll",
+        "RitsuLib\\compat\\0.109.0\\STS2-RitsuLib.Runtime.pdb",
+        "RitsuLib\\compat\\0.109.0\\STS2-RitsuLib.Runtime.xml",
+        "RitsuLib\\compat\\0.109.0\\STS2-RitsuLib.xml",
+        "RitsuLib\\compat\\0.110.0\\compat-target.txt",
+        "RitsuLib\\compat\\0.110.0\\STS2-RitsuLib.dll",
+        "RitsuLib\\compat\\0.110.0\\STS2-RitsuLib.pdb",
+        "RitsuLib\\compat\\0.110.0\\STS2-RitsuLib.Runtime.dll",
+        "RitsuLib\\compat\\0.110.0\\STS2-RitsuLib.Runtime.pdb",
+        "RitsuLib\\compat\\0.110.0\\STS2-RitsuLib.Runtime.xml",
+        "RitsuLib\\compat\\0.110.0\\STS2-RitsuLib.xml",
+        "RitsuLib\\compat\\0.111.0\\compat-target.txt",
+        "RitsuLib\\compat\\0.111.0\\STS2-RitsuLib.dll",
+        "RitsuLib\\compat\\0.111.0\\STS2-RitsuLib.pdb",
+        "RitsuLib\\compat\\0.111.0\\STS2-RitsuLib.Runtime.dll",
+        "RitsuLib\\compat\\0.111.0\\STS2-RitsuLib.Runtime.pdb",
+        "RitsuLib\\compat\\0.111.0\\STS2-RitsuLib.Runtime.xml",
+        "RitsuLib\\compat\\0.111.0\\STS2-RitsuLib.xml",
+        "RitsuLib\\mod_manifest.json",
+        "RitsuLib\\ritsulib-variants.manifest",
+        "RitsuLib\\RitsuLib.References.props",
+        "RitsuLib\\shared\\STS2-RitsuLib.Settings.dll",
+        "RitsuLib\\shared\\STS2-RitsuLib.Settings.pdb",
+        "RitsuLib\\shared\\STS2-RitsuLib.Settings.xml",
+        "RitsuLib\\shared\\STS2-RitsuLib.Shared.dll",
+        "RitsuLib\\shared\\STS2-RitsuLib.Shared.pdb",
+        "RitsuLib\\shared\\STS2-RitsuLib.Shared.xml",
+        "RitsuLib\\shared\\STS2-RitsuLib.Ui.dll",
+        "RitsuLib\\shared\\STS2-RitsuLib.Ui.pdb",
+        "RitsuLib\\shared\\STS2-RitsuLib.Ui.xml",
+        "RitsuLib\\STS2-RitsuLib.dll",
+        "RitsuLib\\viewer\\assets\\index.css",
+        "RitsuLib\\viewer\\assets\\index.js",
+        "RitsuLib\\viewer\\index.html"
+      ],
+      "folder_name": "RitsuLib",
+      "mod_id": "STS2-RitsuLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.6.10_1db4d583.zip",
+      "bundle_sha256": "1db4d583b6cc152ddb0a63ba7dd26657e5eb48d61fff67ecd0a3ec37c079bc69"
+    },
+    {
+      "mod_version_id": "51ffabb1-4d33-40dd-8d72-4b7f4f97902f",
+      "name": "二阶堂希罗角色模组",
+      "version": "0.0.5",
+      "source": null,
+      "hash": "62ef8d11a06cbd651136b3a655812ac9bc80959402b8f5f31335d3a11b6c4aa8",
+      "files": [
+        "CustomCharHiro\\CustomCharHiro.dll",
+        "CustomCharHiro\\CustomCharHiro.json",
+        "CustomCharHiro\\CustomCharHiro.pck"
+      ],
+      "folder_name": "CustomCharHiro",
+      "mod_id": "CustomCharHiro",
+      "enabled": true,
+      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/_v0.0.5_7f467f51.zip",
+      "bundle_sha256": "7f467f5111f6d8c8c0487d0b45927cf7b2d12917717f5f13d341c92ef47fa8d9"
+    },
+    {
+      "mod_version_id": "9cda146e-f0cb-4af3-a906-6a2ca5dd241b",
+      "name": "酒狐",
+      "version": "1.2.16",
+      "source": null,
+      "hash": "569a22dc85475cfb5fa77a48fff66fb6630ee7bbf389b0c85cf31fcc77c98d97",
+      "files": [
+        "STS2_WineFox\\mod_manifest.json",
+        "STS2_WineFox\\STS2_WineFox.dll",
+        "STS2_WineFox\\STS2_WineFox.pck"
+      ],
+      "folder_name": "STS2_WineFox",
+      "mod_id": "STS2_WineFox",
+      "enabled": true,
+      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/_v1.2.16_920a3dbd.zip",
+      "bundle_sha256": "920a3dbdc9b078c8439c291c8cbc6e2ba8dc3e200e8bc06df1e5dd9d750fefc5"
     }
   ],
   "created_at": "2026-10-20T02:08:32.362493600Z",
-  "updated_at": "2026-11-01T03:02:49.244259500Z",
+  "updated_at": "2026-11-01T03:17:37.723952100Z",
   "public": false
 }
