@@ -211,23 +211,6 @@
       "bundle_sha256": "3736d41e638a42c5767a434f68f1ed9be6b3d966680497a10be6a743a781e8a8"
     },
     {
-      "mod_version_id": "3039d850-cb53-44a0-961c-e216d7ea6771",
-      "name": "Qu",
-      "version": "v0.1.0",
-      "source": null,
-      "hash": "ac65d916171e0b31cf97d66cc499adaaae6958d17818c3a98f80060777be2e22",
-      "files": [
-        "Qu\\Qu.dll",
-        "Qu\\Qu.json",
-        "Qu\\qu.pck"
-      ],
-      "folder_name": "Qu",
-      "mod_id": "Qu",
-      "enabled": true,
-      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/Qu_v0.1.0_05e96773.zip",
-      "bundle_sha256": "05e96773ff6b103335d4305333c64f275bbd3014cb3246f6156bc8b61a6c9e88"
-    },
-    {
       "mod_version_id": "e884cdaf-66d1-4b64-8b2a-70b17409c065",
       "name": "RitsuLib",
       "version": "0.6.10",
@@ -287,23 +270,6 @@
       "bundle_sha256": "1db4d583b6cc152ddb0a63ba7dd26657e5eb48d61fff67ecd0a3ec37c079bc69"
     },
     {
-      "mod_version_id": "51ffabb1-4d33-40dd-8d72-4b7f4f97902f",
-      "name": "二阶堂希罗角色模组",
-      "version": "0.0.5",
-      "source": null,
-      "hash": "62ef8d11a06cbd651136b3a655812ac9bc80959402b8f5f31335d3a11b6c4aa8",
-      "files": [
-        "CustomCharHiro\\CustomCharHiro.dll",
-        "CustomCharHiro\\CustomCharHiro.json",
-        "CustomCharHiro\\CustomCharHiro.pck"
-      ],
-      "folder_name": "CustomCharHiro",
-      "mod_id": "CustomCharHiro",
-      "enabled": true,
-      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/_v0.0.5_7f467f51.zip",
-      "bundle_sha256": "7f467f5111f6d8c8c0487d0b45927cf7b2d12917717f5f13d341c92ef47fa8d9"
-    },
-    {
       "mod_version_id": "9cda146e-f0cb-4af3-a906-6a2ca5dd241b",
       "name": "酒狐",
       "version": "1.2.16",
@@ -319,9 +285,26 @@
       "enabled": true,
       "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/_v1.2.16_920a3dbd.zip",
       "bundle_sha256": "920a3dbdc9b078c8439c291c8cbc6e2ba8dc3e200e8bc06df1e5dd9d750fefc5"
+    },
+    {
+      "mod_version_id": "548b7b32-1290-46cf-a4c3-84dee15dbc67",
+      "name": "Yuri",
+      "version": "v1.0.1",
+      "source": null,
+      "hash": "5b88b9dd27eb6f5405756ed0621c54de762f8cf3545195513706827329d11c12",
+      "files": [
+        "Yuri\\Yuri.dll",
+        "Yuri\\Yuri.json",
+        "Yuri\\Yuri.pck"
+      ],
+      "folder_name": "Yuri",
+      "mod_id": "Yuri",
+      "enabled": true,
+      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/Yuri_v1.0.1_67b4dd9f.zip",
+      "bundle_sha256": "67b4dd9f1411887f4e96013e33dac1b9a6a05e25b6ee42c2967badaef86ff79b"
     }
   ],
   "created_at": "2026-10-20T02:08:32.362493600Z",
-  "updated_at": "2026-11-01T03:24:08.184280600Z",
+  "updated_at": "2026-11-01T05:52:46.745855600Z",
   "public": false
 }
