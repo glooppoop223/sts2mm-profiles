@@ -228,23 +228,6 @@
       "bundle_sha256": "4f53089b03102ae36fdb38f27ac9f27b09263b27f9d616e5d4e639f9332ad11a"
     },
     {
-      "mod_version_id": "3039d850-cb53-44a0-961c-e216d7ea6771",
-      "name": "Qu",
-      "version": "v0.1.0",
-      "source": null,
-      "hash": "ac65d916171e0b31cf97d66cc499adaaae6958d17818c3a98f80060777be2e22",
-      "files": [
-        "Qu\\Qu.dll",
-        "Qu\\Qu.json",
-        "Qu\\qu.pck"
-      ],
-      "folder_name": "Qu",
-      "mod_id": "Qu",
-      "enabled": true,
-      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/Qu_v0.1.0_05e96773.zip",
-      "bundle_sha256": "05e96773ff6b103335d4305333c64f275bbd3014cb3246f6156bc8b61a6c9e88"
-    },
-    {
       "mod_version_id": "51ffabb1-4d33-40dd-8d72-4b7f4f97902f",
       "name": "二阶堂希罗角色模组",
       "version": "0.0.5",
@@ -263,6 +246,6 @@
     }
   ],
   "created_at": "2026-10-20T02:08:32.362493600Z",
-  "updated_at": "2026-11-01T03:22:46.179024300Z",
+  "updated_at": "2026-11-01T03:23:08.212005100Z",
   "public": false
 }
