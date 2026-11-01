@@ -345,9 +345,45 @@
       "enabled": true,
       "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/bundle-evidence_v0.0.0_3736d41e.zip",
       "bundle_sha256": "3736d41e638a42c5767a434f68f1ed9be6b3d966680497a10be6a743a781e8a8"
+    },
+    {
+      "mod_version_id": "75790b3c-8b13-4a58-b11d-380c8c7e9cec",
+      "name": "EnkiduMod",
+      "version": "v0.0.8",
+      "source": null,
+      "hash": "8b22e511c3303a2f7f7e08805f8dff58657e10ac57de28bbfcc4b6f39610b8c8",
+      "files": [
+        "EnkiduMod\\EnkiduMod.dll",
+        "EnkiduMod\\EnkiduMod.json",
+        "EnkiduMod\\EnkiduMod.pck"
+      ],
+      "folder_name": "EnkiduMod",
+      "mod_id": "EnkiduMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/EnkiduMod_v0.0.8_027de483.zip",
+      "bundle_sha256": "027de48311262286cafd0bb9bb9c85c510852a8e87ef8b74f83d0ddf4e7b93e5"
+    },
+    {
+      "mod_version_id": "7203fc01-a917-4751-bf55-3c06dedbd002",
+      "name": "殺進夏萊",
+      "version": "v0.0.1",
+      "source": null,
+      "hash": "029673d64c1027f31492f355a2cc32164be9da1a831215024125817cb50febde",
+      "files": [
+        "SlayTheSchale\\Art_Resources.txt",
+        "SlayTheSchale\\mod_manifest.json",
+        "SlayTheSchale\\SlayTheSchale.dll",
+        "SlayTheSchale\\SlayTheSchale.pck",
+        "SlayTheSchale\\SlayTheSchale.pdb"
+      ],
+      "folder_name": "SlayTheSchale",
+      "mod_id": "SlayTheSchale",
+      "enabled": true,
+      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/_v0.0.1_875f9f12.zip",
+      "bundle_sha256": "875f9f12289833b9564316ad3a5fbd4138b144d6b94a30c38155bca416684c71"
     }
   ],
   "created_at": "2026-10-20T02:08:32.362493600Z",
-  "updated_at": "2026-10-30T02:23:46.222497700Z",
+  "updated_at": "2026-11-01T03:02:49.244259500Z",
   "public": false
 }
