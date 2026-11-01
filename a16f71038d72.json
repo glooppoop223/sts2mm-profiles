@@ -209,9 +209,60 @@
       "enabled": true,
       "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/bundle-evidence_v0.0.0_3736d41e.zip",
       "bundle_sha256": "3736d41e638a42c5767a434f68f1ed9be6b3d966680497a10be6a743a781e8a8"
+    },
+    {
+      "mod_version_id": "a1bb092f-484e-49ce-8509-aed80f23d59d",
+      "name": "Le bombeur",
+      "version": "v0.1.0",
+      "source": null,
+      "hash": "253e5c5f5ca2751e3376463c3a35e7311640c639ecf51b4f4df8c233cfbd8485",
+      "files": [
+        "DefaultLeBombeurMod\\LeBombeurMod.dll",
+        "DefaultLeBombeurMod\\LeBombeurMod.json",
+        "DefaultLeBombeurMod\\LeBombeurMod.pck"
+      ],
+      "folder_name": "DefaultLeBombeurMod",
+      "mod_id": "LeBombeurMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/Le_bombeur_v0.1.0_4f53089b.zip",
+      "bundle_sha256": "4f53089b03102ae36fdb38f27ac9f27b09263b27f9d616e5d4e639f9332ad11a"
+    },
+    {
+      "mod_version_id": "3039d850-cb53-44a0-961c-e216d7ea6771",
+      "name": "Qu",
+      "version": "v0.1.0",
+      "source": null,
+      "hash": "ac65d916171e0b31cf97d66cc499adaaae6958d17818c3a98f80060777be2e22",
+      "files": [
+        "Qu\\Qu.dll",
+        "Qu\\Qu.json",
+        "Qu\\qu.pck"
+      ],
+      "folder_name": "Qu",
+      "mod_id": "Qu",
+      "enabled": true,
+      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/Qu_v0.1.0_05e96773.zip",
+      "bundle_sha256": "05e96773ff6b103335d4305333c64f275bbd3014cb3246f6156bc8b61a6c9e88"
+    },
+    {
+      "mod_version_id": "51ffabb1-4d33-40dd-8d72-4b7f4f97902f",
+      "name": "二阶堂希罗角色模组",
+      "version": "0.0.5",
+      "source": null,
+      "hash": "62ef8d11a06cbd651136b3a655812ac9bc80959402b8f5f31335d3a11b6c4aa8",
+      "files": [
+        "CustomCharHiro\\CustomCharHiro.dll",
+        "CustomCharHiro\\CustomCharHiro.json",
+        "CustomCharHiro\\CustomCharHiro.pck"
+      ],
+      "folder_name": "CustomCharHiro",
+      "mod_id": "CustomCharHiro",
+      "enabled": true,
+      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/_v0.0.5_7f467f51.zip",
+      "bundle_sha256": "7f467f5111f6d8c8c0487d0b45927cf7b2d12917717f5f13d341c92ef47fa8d9"
     }
   ],
   "created_at": "2026-10-20T02:08:32.362493600Z",
-  "updated_at": "2026-11-01T03:21:49.449342400Z",
+  "updated_at": "2026-11-01T03:22:46.179024300Z",
   "public": false
 }
