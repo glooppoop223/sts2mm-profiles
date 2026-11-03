@@ -387,9 +387,43 @@
       "enabled": true,
       "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/Sora_._Hearts_Between_Worlds_v1.4.3_d763c7de.zip",
       "bundle_sha256": "d763c7ded02b04c7253cb50b3f8d98eab17925ce361b5ff06f9934ae25cdd2a5"
+    },
+    {
+      "mod_version_id": "7d0c8ff0-b280-4d9b-9515-4364d76dda32",
+      "name": "The Alchemist",
+      "version": "v0.15.0",
+      "source": null,
+      "hash": "c3eeb60d1870a13067cafbc969a9097439dfd50cb3aabc5cd11e8aca48bf3f56",
+      "files": [
+        "Alchemist\\Alchemist.dll",
+        "Alchemist\\Alchemist.json",
+        "Alchemist\\Alchemist.pck"
+      ],
+      "folder_name": "Alchemist",
+      "mod_id": "Alchemist",
+      "enabled": true,
+      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/The_Alchemist_v0.15.0_459f41fe.zip",
+      "bundle_sha256": "459f41fe341a1b99f0c5eb6af619e23281dc7609bbf63592c5db955d31f0d8b3"
+    },
+    {
+      "mod_version_id": "dfe05c09-5a6d-4e33-a7f7-9ed482b48cdd",
+      "name": "阿尔法",
+      "version": "0.1.0",
+      "source": null,
+      "hash": "e19e49a82c0709d6bb59b523e9258790529119f51cfab836028c46a71cf7475b",
+      "files": [
+        "aerfa1.01\\MyChar.dll",
+        "aerfa1.01\\MyChar.json",
+        "aerfa1.01\\MyChar.pck"
+      ],
+      "folder_name": "aerfa1.01",
+      "mod_id": "MyChar",
+      "enabled": true,
+      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/_v0.1.0_cae0089b.zip",
+      "bundle_sha256": "cae0089ba143554aa990649593aec14598dba1f7cec87acf04e7311bb2a71d22"
     }
   ],
   "created_at": "2026-10-20T02:08:32.362493600Z",
-  "updated_at": "2026-11-03T03:41:13.511838200Z",
+  "updated_at": "2026-11-03T03:42:39.134150900Z",
   "public": false
 }
