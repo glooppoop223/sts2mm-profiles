@@ -372,11 +372,28 @@
       "bundle_sha256": "459f41fe341a1b99f0c5eb6af619e23281dc7609bbf63592c5db955d31f0d8b3"
     },
     {
-      "mod_version_id": "a294640d-4bac-4798-8948-ec345b3765a1",
+      "mod_version_id": "a30ba020-f3ae-4b4a-8fb0-68573a1da506",
+      "name": "Act 4: Final Ascent",
+      "version": "0.1.2e",
+      "source": null,
+      "hash": "8b47f856cf3ccfc31a2675c229db81d68481e05b4c3b2242cdb81054896e853d",
+      "files": [
+        "Final Accent\\Act4FinalAscent.dll",
+        "Final Accent\\Act4FinalAscent.json",
+        "Final Accent\\Act4FinalAscent.pck"
+      ],
+      "folder_name": "Final Accent",
+      "mod_id": "Act4FinalAscent",
+      "enabled": true,
+      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/Act_4__Final_Ascent_v0.1.2e_3ccd6aca.zip",
+      "bundle_sha256": "3ccd6acafe27846f86d653dc6ed4b75dd94b7b43e8d59fbb4b6b49ee7768296d"
+    },
+    {
+      "mod_version_id": "c80a6be7-845f-4130-8bc3-0be5eb80ba46",
       "name": "Crystal Bunny",
       "version": "1.0.2",
       "source": null,
-      "hash": "7f6b3ad6c4fe67e331b13fffad57eb09960fb4cd5a4ed21350787e3eb134ea80",
+      "hash": "cf84c094013aab07a7b2ad40a83802322948f2f3450015b66792f248fa9b23d0",
       "files": [
         "CrystalBunny\\CrystalBunny.dll",
         "CrystalBunny\\CrystalBunny.json",
@@ -385,11 +402,11 @@
       "folder_name": "CrystalBunny",
       "mod_id": "CrystalBunny",
       "enabled": true,
-      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/Crystal_Bunny_v1.0.2_b31c6cc8.zip",
-      "bundle_sha256": "b31c6cc85d3bdf754c6de733a5f6380df530628628d5cbee189d14c7140bd0b5"
+      "bundle_url": "https://github.com/glooppoop223/sts2mm-profiles/releases/download/bundles/Crystal_Bunny_v1.0.2_e22d9fd6.zip",
+      "bundle_sha256": "e22d9fd6e009b5211de1379a5eea6f00904374bd79acf2c80b43b3ef229eece0"
     }
   ],
   "created_at": "2026-10-20T02:08:32.362493600Z",
-  "updated_at": "2026-11-03T03:52:42.364709Z",
+  "updated_at": "2026-11-03T03:55:24.771197100Z",
   "public": false
 }
